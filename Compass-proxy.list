@@ -1,0 +1,14 @@
+# OneDrive
+PROCESS-NAME,banyan
+
+USER-AGENT,compass*
+DOMAIN-KEYWORD,compass
+
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,atlassian.net
+DOMAIN-SUFFIX,databricks.com
+DOMAIN-SUFFIX,compass.onelogin.com
+DOMAIN-SUFFIX,circleci.com
+DOMAIN-SUFFIX,awsapps.com
