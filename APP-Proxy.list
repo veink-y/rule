@@ -1,6 +1,7 @@
 # Direct-APP
 PROCESS-NAME,Slack
-PROCESS-NAME,Calendar
-PROCESS-NAME,Mail
-PROCESS-NAME,Google*
-PROCESS-NAME,zoom
+PROCESS-NAME,Slack.app
+PROCESS-NAME,Slack Helper
+PROCESS-NAME,Slack Helper (GPU)
+PROCESS-NAME,Slack Helper.app
+PROCESS-NAME,Slack Helper (GPU).app
